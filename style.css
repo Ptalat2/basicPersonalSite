@@ -1,0 +1,42 @@
+body {
+    background-color: aquamarine;
+}
+
+td, th {
+    border: 1px solid #11bb4a;
+    text-align: left;
+    padding: 8px;
+ }
+
+  #no {
+    border: none;
+  }
+
+  #star {
+    color:yellow;
+    background-color:black;
+  }
+
+  #note {
+    position: relative;
+    left:1000px;
+    top:50px;
+    background-color: black;
+    border-radius: 30%;
+    height:400px;
+    width:200px;
+    color:antiquewhite;
+    border: 0.5px solid #11bb4a;
+  }
+
+  hr {
+    border: 1px #345154;
+    border-style:none;
+    border-top-style: dotted;
+    width:75%;
+    border-width: 3px;
+  }
+   h1,h2,h3,#h,p {
+    color:rgb(231, 3, 3)
+   }
+
